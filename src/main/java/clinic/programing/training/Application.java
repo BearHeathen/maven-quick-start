@@ -1,4 +1,4 @@
-package clinic.programming.training;
+package clinic.programing.training;
 
 import java.util.ArrayList;
 import java.util.List;
